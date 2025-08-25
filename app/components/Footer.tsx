@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <div className="">
       <Update />
-      <div className="w-full bg-gray-200 max-sm:h-180 sm:h-140 lg:h-120 px-6 md:px-16 pt-30">
+      <div className="w-full bg-gray-200 max-sm:h-240 sm:h-160 lg:h-120 px-6 md:px-16 pt-30">
         <div className="flex max-sm:flex-col flex-row max-sm:gap-10">
           <div className="w-80 max-sm:w-full max-sm:mr-16 sm:mr-2 md:mr-10">
             <h1 className="text-5xl font-black tracking-wide mb-6">SHOP.CO</h1>
@@ -65,7 +65,7 @@ const Footer = () => {
         <div className="w-full h-1 bg-gray-300 rounded-4xl mt-10 mb-4"></div>
         <div className="flex sm:flex-row flex-col justify-between items-center">
           <p>Shop.co © 2000-2003, All Rights Reserved </p>
-          <div className="flex gap-4">
+          <div className="flex flex-wrap gap-4">
             <div className="w-20 h-12 rounded-xl bg-white p-3 flex items-center justify-center">
               <img src="./visa.svg" className="w-20" alt="" />
             </div>

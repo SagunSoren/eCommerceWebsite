@@ -6,7 +6,7 @@ import { CgProfile } from "react-icons/cg";
 const Navbar = () => {
   return (
     <div className="fixed top-0 left-0 w-full z-10">
-      <div className="flex items-center justify-center bg-black h-8">
+      <div className="flex items-center justify-center bg-black h-8 max-sm:h-10">
         <p className="text-white">
           Sign up and get 20% off to your first order.{" "}
           <span className="underline underline-offset-2">Sign Up Now</span>

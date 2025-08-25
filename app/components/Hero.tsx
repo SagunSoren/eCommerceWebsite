@@ -14,7 +14,7 @@ const Hero = () => {
           <button className="bg-black text-white py-3 px-10 rounded-full">
             Shop Now
           </button>
-          <div className="flex gap-6">
+          <div className="flex gap-6 max-sm:gap-2">
             <div>
               <h1 className="text-2xl font-semibold">2000+</h1>
               <p>High-Quality Products</p>
@@ -35,7 +35,7 @@ const Hero = () => {
           <img src="./hero.png" alt="" className="w-[600px]" />
         </div>
       </div>
-      <div className="flex relative bottom-20 w-full h-30 max-md:h-30 justify-around items-center flex-wrap px-10 bg-black">
+      <div className="flex relative bottom-20 w-full h-30 max-sm:h-40 max-md:h-30 justify-around items-center flex-wrap px-10 bg-black">
         <img src="versace.svg" className="h-10 invert-0 max-md:h-8 " alt="" />
         <img src="zara.svg" className="h-10 invert-0 max-md:h-8" alt="" />
         <img src="gucci.svg" className="h-10 invert-0 max-md:h-8" alt="" />
