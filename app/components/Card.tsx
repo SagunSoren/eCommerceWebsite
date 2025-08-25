@@ -1,6 +1,4 @@
-import Image from "next/image";
-import shirt from "../../public/shirt.png";
-function Card(props) {
+function Card(props: any) {
   const rating = props.rating;
 
   const stars = [];
