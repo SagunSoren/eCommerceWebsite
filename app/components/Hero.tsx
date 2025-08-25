@@ -1,8 +1,3 @@
-import Image from "next/image";
-import heroimage from "../../public/heroimage.png";
-import versace from "../../public/Versace.png";
-import Navbar from "./Navbar";
-
 const Hero = () => {
   return (
     <div className="min-h-screen w-full h-full">
