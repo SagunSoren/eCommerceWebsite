@@ -9,8 +9,8 @@ const Footer = () => {
           <div className="w-80 max-sm:w-full max-sm:mr-16 sm:mr-2 md:mr-10">
             <h1 className="text-5xl font-black tracking-wide mb-6">SHOP.CO</h1>
             <p>
-              We have clothes that suits your style and which youre proud to
-              wear. From women to men.
+              We have clothes that suits your style and which you&apos;re proud
+              to wear. From women to men.
             </p>
           </div>
 
