@@ -10,7 +10,7 @@ const Footer = () => {
             <h1 className="text-5xl font-black tracking-wide mb-6">SHOP.CO</h1>
             <p>
               We have clothes that suits your style and which youre proud to
-              wear. From women to men
+              wear. From women to men.
             </p>
           </div>
 
