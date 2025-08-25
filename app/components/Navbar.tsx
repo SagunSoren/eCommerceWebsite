@@ -2,7 +2,6 @@ import { FaSearch } from "react-icons/fa";
 import { GiHamburgerMenu } from "react-icons/gi";
 import { FaShoppingCart } from "react-icons/fa";
 import { CgProfile } from "react-icons/cg";
-import { IoClose } from "react-icons/io5";
 
 const Navbar = () => {
   return (
